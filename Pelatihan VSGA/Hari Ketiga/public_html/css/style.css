@@ -1,0 +1,10 @@
+.main-content{
+    display: inline-block;
+    justify-content: center; 
+    padding-inline: 20px;
+    align-items: center; 
+}
+
+.h1 {
+    text-align: center;
+}
